@@ -11,54 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D  (applying)
+* M.S. in Exrcise Physiology, GitHub University, 2024
+* B.S. in Community Sports Guidance and Management, Jiangxi University of Science and Technology, 2020
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2021-Sep 2023; Research Assistant
+  * Yonsei University  
+  * Project name: Recommendations for daily fatigue monitoring and exercise prescription
+  * Supervisor: Prof. IlYoung Baik, Department chair of physical Education & Repure Life Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2023, July 2023: Research Assistant
+  * Yonsei University  
+  * Project name: An evaluation of heart rate monitoring with in-ear earphones under motion
+  * Supervisor: Dr. Tae Hyung. Lee, Post-Doctoral of physical Education & SamSung
+
+* Sep 2021-Sep 2023 : Research Assistant
+  * Yonsei University 
+  * Project name: Recommendations for daily fatigue monitoring and exercise prescription 
+  * Supervisor: Prof. IlYoung Baik, Department chair of physical Education & Repure Life Science 
 
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Jiangxi University of Science and Technology
+  * Project name: Analysis of developing rural sports tourism resources under the background of precision poverty alleviation
+  * Supervisor: Professor Kai Li, Department of physical Education
+
+Teaching experience
+======
+* Sep.2022-June.2023: Health and Exercise(Fall 2022-Fall 2023)                                               
+   •  Instructor: Prof. Il Young Paik(Dept, yonsei university)
+   •  Credit 2; Class: 106 juniors;
+
+* Feb.2022-Feb.2023: Exercise Physiology Laboratory(Spring 2022-Spring 2023)                                 
+   •  Instructor: Prof. Il Young Paik(Dept, yonsei university)
+   •  Credit 2; Class: 26 juniors;
+
+* Feb.2022-Feb.2023: Tennis Coaching(Spring 2022-Spring 2023)                                            
+   •  Instructor: Prof. Sang Hyun Suh (Dept, yonsei university)
+   •  Credit 2; Class: 33 juniors;
+
+*  Feb.2019-Sep.2019: Football Coach(Fall 2019)                                                            
+   •  Instructor: Prof. Wang XianYi(Dept, Jiangxi University of Science and Technology)
+   •  Credit 3; Class: 46  juniors;
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill 1: Adobe Photoshop, Aodobe InDesign, Stata, Spss, MS Office, R, Graphpad Pism
+* Skill 2: Native/Bilinual: Mandarin Chinese ; Native/Bilinual: Cantonese Chinese; Conversational/Fluent: Korean; English
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
