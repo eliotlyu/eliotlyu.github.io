@@ -5,7 +5,7 @@ category: Thesis
 date: 2024-02-17
 ---
 
-[Graphical Abstract](../images/Graphical Abstract .png)/
+[Graphical Abstract](../images/Graphical Abstract .png)
 ---
 
 ABSTRACT:
