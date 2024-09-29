@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D  (applying)
-* M.S. in Exrcise Physiology, GitHub University, 2024
+* M.S. in Exercise Physiology, Yonsei University, 2024
 * B.S. in Community Sports Guidance and Management, Jiangxi University of Science and Technology, 2020
 
 Research experience
