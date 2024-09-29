@@ -57,7 +57,7 @@ Teaching experience
 
 Skills
 ======
-* Skill 1: Adobe Photoshop, Aodobe InDesign, Stata, Spss, MS Office, R, Graphpad Pism
-* Skill 2: Native/Bilinual: Mandarin Chinese ; Native/Bilinual: Cantonese Chinese; Conversational/Fluent: Korean; English
+* Computer Skill: Adobe Photoshop, Aodobe InDesign, Stata, Spss, MS Office, R, Graphpad Pism
+* Language Skill: Native/Bilinual: Mandarin Chinese ; Native/Bilinual: Cantonese Chinese; Conversational/Fluent: Korean; English
 
   
