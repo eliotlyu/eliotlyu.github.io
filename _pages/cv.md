@@ -15,6 +15,15 @@ Education
 * M.S. in Exercise Physiology, Yonsei University, 2024
 * B.S. in Community Sports Guidance and Management, Jiangxi University of Science and Technology, 2020
 
+Research Interests
+======
+* Exercise and nutriment interrupts sedentary lifestyle changes in skeletal muscle inflammation and glucose induced oxidative stress
+* Mechanisms behind cancer treatment related toxicities with a specific interest in skeletal muscle weakness and fatigue
+* The relationships among lifestyle(exercise, physical activity, nutriment, sleep), cardiovascular fitness, body fat, and metabolic disease (e.g., metabolic syndrome, type 2 diabetes)
+* The impact on cardiac, muscular, and immune function of breaking up prolonged periods of sitting with physical activity and how breaking up prolonged periods of sitting with physical activity can mitigate their deleterious effect
+* Neural and Cardiovascular Responses to aging
+* Mitochondrial physiology and diseases caused by mitochondrial dysfunction
+  
 Research experience
 ======
 * Sep 2021-Sep 2023; Research Assistant
