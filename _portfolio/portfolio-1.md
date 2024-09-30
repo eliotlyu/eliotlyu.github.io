@@ -8,4 +8,4 @@ Contribute:
 2) Supported data collection efforts by coordinating and processing research materials.
 3) Literature was collected and analyzed, and questionnaires were developed for daily fatigue health monitoring.
 4) Provide fatigue-related exercise prescription recommendations and visualizations.
----
+
